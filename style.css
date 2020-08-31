@@ -1,0 +1,35 @@
+.container {
+	border: solid 4px black;
+	height: 500px;
+	display: flex;
+	/* justify-content: space-between; */
+	/* align-items: center; */
+	flex-wrap: wrap;
+}
+
+.item {
+	/* background-color: #444; */
+	/* color: #fff; */
+	/* height: 60px; */
+	width: 100px;
+}
+
+.item_1 {
+	text-align: center;
+	background: orange;
+}
+.item_2 {
+	background: green;
+}
+.item_3 {
+	background: #da3838;
+}
+.item_4 {
+	background: #ffc107;
+}
+.item_5 {
+	background: #444;
+}
+.item_6 {
+	background: blue;
+}
